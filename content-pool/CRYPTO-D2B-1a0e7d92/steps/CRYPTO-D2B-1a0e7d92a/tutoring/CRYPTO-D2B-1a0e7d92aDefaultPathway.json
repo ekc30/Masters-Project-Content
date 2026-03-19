@@ -1,0 +1,18 @@
+[
+  {
+    "id":"CRYPTO-D2B-1a0e7d92b-h1",
+    "title":"Common 3-letter words",
+    "text":"What common 3-letter words are there in English?",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id": "CRYPTO-D2B-1a0e7d92b-h2",
+    "title": "Word type",
+    "text": "Could it map to an article?",
+    "type": "hint",
+    "dependencies": ["CRYPTO-D2B-1a0e7d92b-h1"],
+    "variabilization": {}
+  }
+]

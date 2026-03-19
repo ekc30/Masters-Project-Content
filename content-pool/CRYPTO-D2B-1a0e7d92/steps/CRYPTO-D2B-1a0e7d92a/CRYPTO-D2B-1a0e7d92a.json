@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D2B-1a0e7d92a",
+  "stepTitle": "Likely word mapping",
+  "stepBody": "What word does VJG likely map to in the following Caesar-encrypted text? VJG OCP CPF VJG YQOCP TGVTKGXGF VJG NGVVGT HTQO VJG RQUV QHHKEG",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["THE"],
+  "variabilization": {}
+}
