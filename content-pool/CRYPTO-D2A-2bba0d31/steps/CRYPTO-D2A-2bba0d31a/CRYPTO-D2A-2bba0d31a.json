@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D2A-2bba0d31a",
+  "stepTitle": "Likely letter mapping",
+  "stepBody": "What letter does U likely map to in the following Caesar-encrypted text? U JCYWY IZ NYRN YHWLSJNYX CH U BYVLYQ PYLMCIH IZ NBY WUYMUL WCJBYL CM MIGYNCGYM ZIOHX IH NBY VUWE IZ DYQCMB GYTOTUB MWLIFFM",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["A"],
+  "variabilization": {}
+}
