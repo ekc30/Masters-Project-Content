@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D1A-9f5a2f70a",
+  "stepTitle": "Decode a word",
+  "stepBody": "The following ciphertext is encoded using a Caesar cipher with a shift of 3: KHOOR. Decode the ciphertext and enter the plaintext word.",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["HELLO"],
+  "variabilization": {}
+}

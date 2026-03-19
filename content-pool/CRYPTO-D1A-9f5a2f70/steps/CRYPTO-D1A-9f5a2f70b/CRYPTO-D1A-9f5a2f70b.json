@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D1A-9f5a2f70b",
+  "stepTitle": "Decode a short phrase",
+  "stepBody": "The following ciphertext is encoded using a Caesar cipher with a shift of 3: KHOOR IURP WKH ZRUOG. Decode the ciphertext and enter the plaintext.",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["HELLO FROM THE WORLD"],
+  "variabilization": {}
+}
