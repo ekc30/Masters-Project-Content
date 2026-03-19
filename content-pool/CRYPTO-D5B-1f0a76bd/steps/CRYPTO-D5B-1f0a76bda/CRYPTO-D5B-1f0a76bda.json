@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D5B-1f0a76bda",
+  "stepTitle": "Finish the decode",
+  "stepBody": "Ciphertext: **LXFOPV**  | Key: **LEMON**\nEnter plaintext (first 6 letters).",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["ATTACK"],
+  "variabilization": {}
+}

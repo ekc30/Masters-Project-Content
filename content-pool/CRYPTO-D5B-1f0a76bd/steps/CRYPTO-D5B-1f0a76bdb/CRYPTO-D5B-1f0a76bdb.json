@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D5B-1f0a76bdb",
+  "stepTitle": "Transfer: unseen mapping",
+  "stepBody": "Ciphertext uses a linear mapping (affine family). Decode: **ZOLSSZ**\n(Hinting disabled in tests; here, you may think in terms of a consistent per‑letter transformation.)\nEnter plaintext.",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["HELLO"],
+  "variabilization": {}
+}
