@@ -1,5 +1,133 @@
 [
     {
+        "courseName": "Classical Cryptography",
+        "language": "en",
+        "courseOER": "",
+        "courseLicense": "",
+        "lessons": [
+            {
+                "id": "CRYPTO-D1A-9f5a2f70",
+                "name": "Lesson 1A",
+                "topics": "Caesar Cipher Part 1: Decoding",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "decode_caesar_cipher": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D1B-55c1a1de",
+                "name": "Lesson 1B",
+                "topics": "Caesar Cipher Part 2: Encoding",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "encode_caesar_cipher": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D2A-2bba0d31",
+                "name": "Lesson 2A",
+                "topics": "Caesar Cipher Part 1: Pattern Recognition",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "patterns_caesar_cipher_1": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D2B-1a0e7d92",
+                "name": "Lesson 2B",
+                "topics": "Caesar Cipher Part 2: Pattern Recognition",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "patterns_caesar_cipher_2": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D3A-6d4c8a11",
+                "name": "Lesson 3A",
+                "topics": "Rail Fence Cipher Part 1: Encoding",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "encode_railfence_cipher": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D3B-3f1e9b74",
+                "name": "Lesson 3B",
+                "topics": "Rail Fence Cipher Part 2: Decoding",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "decode_railfence_cipher": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D4A-8b7f12c9",
+                "name": "Lesson 4A",
+                "topics": "Rail Fence Cipher Part 1: Pattern Recognition",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "patterns_railfence_cipher_1": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D4B-74ad0c21",
+                "name": "Lesson 4B",
+                "topics": "Rail Fence Cipher Part 2: Pattern Recognition",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "patterns_railfence_cipher_2": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D5A-90c3e4e2",
+                "name": "Lesson 5A",
+                "topics": "Mixed Challenge 1A Part 1",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "decode_vigenere_cipher": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D5B-1f0a76bd",
+                "name": "Lesson 5B",
+                "topics": "Mixed Challenge 1A Part 2",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "encode_vigenere_cipher": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D6A-c1f7d283",
+                "name": "Lesson 6A",
+                "topics": "Mixed Challenge 1B Part 1",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "patterns_vigenere_cipher_1": 0.85
+                }
+            },
+            {
+                "id": "CRYPTO-D6B-0ea984c5",
+                "name": "Lesson 6B",
+                "topics": "Mixed Challenge 1B Part 2",
+                "allowRecycle": true,
+                "enableCompletionMode": true,
+                "learningObjectives": {
+                    "patterns_vigenere_cipher_2": 0.85
+                }
+            }
+        ]
+    },
+    {
         "courseName": "SJSU 1019S",
         "language": "",
         "courseOER": "https://openstax.org/",
