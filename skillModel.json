@@ -43287,5 +43287,77 @@
     ],
     "ac6628dFassumption5b": [
         "test_of_two_variances"
+    ],
+    "CRYPTO-D1A-9f5a2f70a": [
+        "decode_caesar_cipher"
+    ],
+    "CRYPTO-D1A-9f5a2f70b": [
+        "decode_caesar_cipher"
+    ],
+    "CRYPTO-D1B-55c1a1dea": [
+        "encode_caesar_cipher"
+    ],
+    "CRYPTO-D1B-55c1a1deb": [
+        "encode_caesar_cipher"
+    ],
+    "CRYPTO-D2A-2bba0d31a": [
+        "patterns_caesar_cipher_1"
+    ],
+    "CRYPTO-D2A-2bba0d31b": [
+        "patterns_caesar_cipher_1"
+    ],
+    "CRYPTO-D2B-1a0e7d92a": [
+        "patterns_caesar_cipher_2"
+    ],
+    "CRYPTO-D2B-1a0e7d92b": [
+        "patterns_caesar_cipher_2"
+    ],
+    "CRYPTO-D3A-6d4c8a11a": [
+        "encode_railfence_cipher"
+    ],
+    "CRYPTO-D3A-6d4c8a11b": [
+        "encode_railfence_cipher"
+    ],
+    "CRYPTO-D3B-3f1e9b74a": [
+        "decode_railfence_cipher"
+    ],
+    "CRYPTO-D3B-3f1e9b74b": [
+        "decode_railfence_cipher"
+    ],
+    "CRYPTO-D4A-8b7f12c9a": [
+        "patterns_railfence_cipher_1"
+    ],
+    "CRYPTO-D4A-8b7f12c9b": [
+        "patterns_railfence_cipher_1"
+    ],
+    "CRYPTO-D4B-74ad0c21a": [
+        "patterns_railfence_cipher_2"
+    ],
+    "CRYPTO-D4B-74ad0c21b": [
+        "patterns_railfence_cipher_2"
+    ],
+    "CRYPTO-D5A-90c3e4e2a": [
+        "decode_vigenere_cipher"
+    ],
+    "CRYPTO-D5A-90c3e4e2b": [
+        "decode_vigenere_cipher"
+    ],
+    "CRYPTO-D5B-1f0a76bda": [
+        "encode_vigenere_cipher"
+    ],
+    "CRYPTO-D5B-1f0a76bdb": [
+        "encode_vigenere_cipher"
+    ],
+    "CRYPTO-D6A-c1f7d283a": [
+        "patterns_vigenere_cipher_1"
+    ],
+    "CRYPTO-D6A-c1f7d283b": [
+        "patterns_vigenere_cipher_1"
+    ],
+    "CRYPTO-D6B-0ea984c5a": [
+        "patterns_vigenere_cipher_2"
+    ],
+    "CRYPTO-D6B-0ea984c5b": [
+        "patterns_vigenere_cipher_2"
     ]
 }
