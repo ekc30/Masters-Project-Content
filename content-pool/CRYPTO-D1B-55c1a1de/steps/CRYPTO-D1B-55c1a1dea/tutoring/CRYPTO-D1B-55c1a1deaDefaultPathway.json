@@ -1,0 +1,18 @@
+[
+  {
+    "id": "CRYPTO-D1B-55c1a1dea-h1",
+    "title": "Mapping letters",
+    "text": "Shift each letter forward by 4, for example A → E, L → P, etc.).",
+    "type": "hint",
+    "dependencies": [],
+    "variabilization": {}
+  },
+  {
+    "id": "CRYPTO-D1B-55c1a1dea-h2",
+    "title": "Check each position",
+    "text": "Verify all letters were shifted consistently.",
+    "type": "hint",
+    "dependencies": ["CRYPTO-D1B-55c1a1dea-h1"],
+    "variabilization": {}
+  }
+]

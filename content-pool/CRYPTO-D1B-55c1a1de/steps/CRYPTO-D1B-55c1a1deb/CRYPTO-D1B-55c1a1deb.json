@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D1B-55c1a1deb",
+  "stepTitle": "Encode the phrase CAESAR CIPHER ALPHABET",
+  "stepBody": "Encode the phrase CAESAR CIPHER ALPHABET using a Caesar cipher with a shift of 4. Enter the ciphertext.",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["GEIWEV GMTLIV EPTLEFIX"],
+  "variabilization": {}
+}
