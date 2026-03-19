@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D4A-8b7f12c9a",
+  "stepTitle": "Estimate key length",
+  "stepBody": "What is most likely the key of the following Rail Fence-encrypted ciphertext? TERI EC IHRI  LSIA YEO RNPSTOH ALFNECPE SACASCLTP FTASOIIN",
+  "problemType": "TextBox",
+  "answerType": "numeric",
+  "stepAnswer": ["2"],
+  "variabilization": {}
+}

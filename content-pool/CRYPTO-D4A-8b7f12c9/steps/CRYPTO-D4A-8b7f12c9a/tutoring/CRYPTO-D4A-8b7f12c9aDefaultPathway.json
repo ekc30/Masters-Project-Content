@@ -1,0 +1,18 @@
+[
+  {
+    "id":"CRYPTO-D4A-8b7f12c9a-h1",
+    "title":"",
+    "text":"",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D4A-8b7f12c9a-h2",
+    "title":"GCD",
+    "text":"Take the GCD of the distances; common divisors indicate key length.",
+    "type":"hint",
+    "dependencies":["CRYPTO-D4A-8b7f12c9a-h1"],
+    "variabilization":{}
+  }
+]
