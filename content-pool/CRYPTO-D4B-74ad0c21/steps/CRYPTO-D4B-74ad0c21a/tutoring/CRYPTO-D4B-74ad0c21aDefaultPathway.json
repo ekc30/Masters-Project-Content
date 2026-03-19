@@ -1,0 +1,26 @@
+[
+  {
+    "id":"CRYPTO-D4B-74ad0c21a-h1",
+    "title":"Frequency cue",
+    "text":"If X is frequent and corresponds to E, shift = (X−E) mod 26.",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D4B-74ad0c21a-h2",
+    "title":"Arithmetic",
+    "text":"X(23) − E(4) = 19.",
+    "type":"hint",
+    "dependencies":["CRYPTO-D4B-74ad0c21a-h1"],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D4B-74ad0c21a-h3",
+    "title":"Solution",
+    "text":"Shift = **19**.",
+    "type":"solution",
+    "dependencies":["CRYPTO-D4B-74ad0c21a-h2"],
+    "variabilization":{}
+  }
+]
