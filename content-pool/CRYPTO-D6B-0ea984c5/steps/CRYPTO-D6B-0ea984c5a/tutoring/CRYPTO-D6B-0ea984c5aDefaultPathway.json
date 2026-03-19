@@ -1,0 +1,26 @@
+[
+  {
+    "id":"CRYPTO-D6B-0ea984c5a-h1",
+    "title":"Hint 1",
+    "text":"Hint text",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D6B-0ea984c5a-h2",
+    "title":"Hint 2",
+    "text":"Hint text",
+    "type":"hint",
+    "dependencies":["CRYPTO-D6B-0ea984c5a-h1"],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D6B-0ea984c5a-h3",
+    "title":"Solution",
+    "text":"**ATTACK**",
+    "type":"solution",
+    "dependencies":["CRYPTO-D6B-0ea984c5a-h2"],
+    "variabilization":{}
+  }
+]

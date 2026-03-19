@@ -1,0 +1,26 @@
+[
+  {
+    "id":"CRYPTO-D6B-0ea984c5b-h1",
+    "title":"Pattern first",
+    "text":"Try to map one or two letters to their likely plaintext and test consistency.",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D6B-0ea984c5b-h2",
+    "title":"Check consistency",
+    "text":"Does the same transform work across all letters?",
+    "type":"hint",
+    "dependencies":["CRYPTO-D6B-0ea984c5b-h1"],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D6B-0ea984c5b-h3",
+    "title":"Solution",
+    "text":"**HELLO**",
+    "type":"solution",
+    "dependencies":["CRYPTO-D6B-0ea984c5b-h2"],
+    "variabilization":{}
+  }
+]

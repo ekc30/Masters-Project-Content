@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D6B-0ea984c5a",
+  "stepTitle": "Step title",
+  "stepBody": "Step body",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": [""],
+  "variabilization": {}
+}
