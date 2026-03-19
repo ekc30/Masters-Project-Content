@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D3A-6d4c8a11b",
+  "stepTitle": "Decode a short phrase",
+  "stepBody": "Encode the following plaintext using a Rail Fence cipher with a key of 3: HELLO FROM THE OTHER SIDE. Enter the ciphertext. ##railfencecipher.png##",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["HOOHT EEL RMTEOHRSDLF  EI"],
+  "variabilization": {}
+}

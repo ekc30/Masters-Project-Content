@@ -1,0 +1,18 @@
+[
+  {
+    "id":"CRYPTO-D3A-6d4c8a11b-h1",
+    "title":"Strategy",
+    "text":"Write out the plaintext downwards diagonally on successive \"rails\" (lines), then moving up when the bottom is reached and repeating until the end of the plaintext. Following this, read the ciphertext from the rows. Keep in mind that spaces are also characters.",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D3A-6d4c8a11b-h2",
+    "title":"Example",
+    "text":"For example: ABCDEFG would be encoded as: (image)",
+    "type":"hint",
+    "dependencies":["CRYPTO-D3A-6d4c8a11b-h1"],
+    "variabilization":{}
+  }
+]
