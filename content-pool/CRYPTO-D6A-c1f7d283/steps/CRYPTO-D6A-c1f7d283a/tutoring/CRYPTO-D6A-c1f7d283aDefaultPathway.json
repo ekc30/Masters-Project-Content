@@ -1,0 +1,26 @@
+[
+  {
+    "id":"CRYPTO-D6A-c1f7d283a-h1",
+    "title":"Reuse technique",
+    "text":"Align LEMON and decode per letter.",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D6A-c1f7d283a-h2",
+    "title":"Check chunk",
+    "text":"Decode LXF to confirm ATT.",
+    "type":"hint",
+    "dependencies":["CRYPTO-D6A-c1f7d283a-h1"],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D6A-c1f7d283a-h3",
+    "title":"Solution",
+    "text":"**ATTACK**",
+    "type":"solution",
+    "dependencies":["CRYPTO-D6A-c1f7d283a-h2"],
+    "variabilization":{}
+  }
+]
