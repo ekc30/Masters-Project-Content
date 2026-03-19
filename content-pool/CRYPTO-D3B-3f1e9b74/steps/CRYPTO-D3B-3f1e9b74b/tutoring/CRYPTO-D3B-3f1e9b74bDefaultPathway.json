@@ -1,0 +1,18 @@
+[
+  {
+    "id":"CRYPTO-D3B-3f1e9b74b-h1",
+    "title":"Strategy",
+    "text":"Try to break the text into 3 rows by letter index, and then concatenate them. Keep in mind that spaces are also characters",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D3B-3f1e9b74b-h2",
+    "title":"Example",
+    "text":"For example: AEBDFCG would decode to A + ",
+    "type":"hint",
+    "dependencies":["CRYPTO-D3B-3f1e9b74b-h1"],
+    "variabilization":{}
+  }
+]

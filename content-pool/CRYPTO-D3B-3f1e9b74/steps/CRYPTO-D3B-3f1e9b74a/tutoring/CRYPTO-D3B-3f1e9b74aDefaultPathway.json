@@ -1,0 +1,18 @@
+[
+  {
+    "id":"CRYPTO-D3B-3f1e9b74a-h1",
+    "title":"Strategy",
+    "text":"Try to break the text into 2 rows by odd/even letter index, and then concatenate them",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D3B-3f1e9b74a-h2",
+    "title":"Example",
+    "text":"For example: ACBD would decode to AB + CD → ABCD.",
+    "type":"hint",
+    "dependencies":["CRYPTO-D3B-3f1e9b74a-h1"],
+    "variabilization":{}
+  }
+]

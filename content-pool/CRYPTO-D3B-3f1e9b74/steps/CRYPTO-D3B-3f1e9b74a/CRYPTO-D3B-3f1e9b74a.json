@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D3B-3f1e9b74a",
+  "stepTitle": "Decode a word",
+  "stepBody": "The following ciphertext is encoded using a Rail Fence cipher with a key of 2: HLOEL. Decode the ciphertext and enter the plaintext word. ",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["HELLO"],
+  "variabilization": {}
+}

@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D3B-3f1e9b74b",
+  "stepTitle": "Decode a short phrase",
+  "stepBody": "The following ciphertext is encoded using a Rail Fence cipher with a shift of 3: HLOFO H TE IEEL RMTEOHRSD. Decode the ciphertext and enter the plaintext.",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["HELLO FROM THE OTHER SIDE"],
+  "variabilization": {}
+}
