@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D5A-90c3e4e2a",
+  "stepTitle": "Which cipher family?",
+  "stepBody": "Ciphertext: **RIJVS UYVJN**\nEnter family name (CAESAR / SUBSTITUTION / VIGENERE).",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["VIGENERE"],
+  "variabilization": {}
+}

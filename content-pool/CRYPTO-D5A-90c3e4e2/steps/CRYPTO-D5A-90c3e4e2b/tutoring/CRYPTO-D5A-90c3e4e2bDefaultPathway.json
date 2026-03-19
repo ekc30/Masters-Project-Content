@@ -1,0 +1,26 @@
+[
+  {
+    "id":"CRYPTO-D5A-90c3e4e2b-h1",
+    "title":"Clue",
+    "text":"All letters appear uniformly shifted.",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D5A-90c3e4e2b-h2",
+    "title":"Check a word",
+    "text":"Try backward shift 3 → familiar greeting appears.",
+    "type":"hint",
+    "dependencies":["CRYPTO-D5A-90c3e4e2b-h1"],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D5A-90c3e4e2b-h3",
+    "title":"Solution",
+    "text":"**CAESAR**",
+    "type":"solution",
+    "dependencies":["CRYPTO-D5A-90c3e4e2b-h2"],
+    "variabilization":{}
+  }
+]

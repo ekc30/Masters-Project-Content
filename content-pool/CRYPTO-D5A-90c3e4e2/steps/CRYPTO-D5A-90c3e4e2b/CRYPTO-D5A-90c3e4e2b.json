@@ -1,0 +1,9 @@
+{
+  "id": "CRYPTO-D5A-90c3e4e2b",
+  "stepTitle": "Identify this one",
+  "stepBody": "Ciphertext: **KHOOR ZRUOG**\nEnter family name (CAESAR / SUBSTITUTION / VIGENERE).",
+  "problemType": "TextBox",
+  "answerType": "string",
+  "stepAnswer": ["CAESAR"],
+  "variabilization": {}
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "id":"CRYPTO-D5A-90c3e4e2a-h1",
+    "title":"Clue",
+    "text":"Repeating key patterns often → Vigenère.",
+    "type":"hint",
+    "dependencies":[],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D5A-90c3e4e2a-h2",
+    "title":"Eliminate others",
+    "text":"It’s not a single fixed shift across all letters.",
+    "type":"hint",
+    "dependencies":["CRYPTO-D5A-90c3e4e2a-h1"],
+    "variabilization":{}
+  },
+  {
+    "id":"CRYPTO-D5A-90c3e4e2a-h3",
+    "title":"Solution",
+    "text":"**VIGENERE**",
+    "type":"solution",
+    "dependencies":["CRYPTO-D5A-90c3e4e2a-h2"],
+    "variabilization":{}
+  }
+]
