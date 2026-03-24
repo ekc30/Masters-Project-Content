@@ -1,6 +1,6 @@
 {
     "decode_caesar_cipher": {
-        "probMastery": 0.5,
+        "probMastery": 0.1,
         "probTransit": 0.1,
         "probSlip": 0.1,
         "probGuess": 0.1
