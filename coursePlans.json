@@ -13,7 +13,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "decode_caesar_cipher": 0.85
-                }
+                },
+                "lesson_set": "1"
             },
             {
                 "id": "CRYPTO-D1B-55c1a1de",
@@ -23,7 +24,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "encode_caesar_cipher": 0.85
-                }
+                },
+                "lesson_set": "1"
             },
             {
                 "id": "CRYPTO-D2A-2bba0d31",
@@ -33,7 +35,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "patterns_caesar_cipher_1": 0.85
-                }
+                },
+                "lesson_set": "2"
             },
             {
                 "id": "CRYPTO-D2B-1a0e7d92",
@@ -43,7 +46,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "patterns_caesar_cipher_2": 0.85
-                }
+                },
+                "lesson_set": "2"
             },
             {
                 "id": "CRYPTO-D3A-6d4c8a11",
@@ -53,7 +57,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "encode_railfence_cipher": 0.85
-                }
+                },
+                "lesson_set": "2"
             },
             {
                 "id": "CRYPTO-D3B-3f1e9b74",
@@ -63,7 +68,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "decode_railfence_cipher": 0.85
-                }
+                },
+                "lesson_set": "2"
             },
             {
                 "id": "CRYPTO-D4A-8b7f12c9",
@@ -73,7 +79,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "patterns_railfence_cipher_1": 0.85
-                }
+                },
+                "lesson_set": "1"
             },
             {
                 "id": "CRYPTO-D4B-74ad0c21",
@@ -83,7 +90,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "patterns_railfence_cipher_2": 0.85
-                }
+                },
+                "lesson_set": "1"
             },
             {
                 "id": "CRYPTO-D5A-90c3e4e2",
@@ -93,7 +101,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "decode_vigenere_cipher": 0.85
-                }
+                },
+                "lesson_set": "1"
             },
             {
                 "id": "CRYPTO-D5B-1f0a76bd",
@@ -103,7 +112,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "encode_vigenere_cipher": 0.85
-                }
+                },
+                "lesson_set": "1"
             },
             {
                 "id": "CRYPTO-D6A-c1f7d283",
@@ -113,7 +123,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "patterns_vigenere_cipher_1": 0.85
-                }
+                },
+                "lesson_set": "2"
             },
             {
                 "id": "CRYPTO-D6B-0ea984c5",
@@ -123,7 +134,8 @@
                 "enableCompletionMode": true,
                 "learningObjectives": {
                     "patterns_vigenere_cipher_2": 0.85
-                }
+                },
+                "lesson_set": "2"
             }
         ]
     }
