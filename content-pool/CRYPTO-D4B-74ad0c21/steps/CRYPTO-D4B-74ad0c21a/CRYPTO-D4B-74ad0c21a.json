@@ -3,7 +3,7 @@
   "stepTitle": "Column shift",
   "stepBody": "Key length is 3. The first column’s most frequent letter is **X**.\nAssuming English E is most common, what is the likely shift (0–25) for column 1 (Cipher→Plain)?",
   "problemType": "TextBox",
-  "answerType": "numeric",
+  "answerType": "string",
   "stepAnswer": ["19"],
   "variabilization": {}
 }
