@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D6B-0ea984c5",
-  "title": "Vigenère Cipher Part 2: Pattern Recognition",
-  "body": "Practice spotting patterns in Vigenère-encrypted ciphertext.",
+  "title": "Revision 2: Rail Fence Cipher mechanics",
+  "body": "You've already practised how the Rail Fence Cipher hides a message by placing its letters in a zig-zag pattern across several rails, then reading the rails row by row to encode or decode. \nIn this revision lesson, you'll apply those ideas more fluently — constructing the zig-zag when encoding, and reconstructing it when decoding. Focus on how the pattern moves down and up across the rails: this rhythm determines the order of letters in both directions.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D2A-2bba0d31, CRYPTO-D2B-1a0e7d92, CRYPTO-D3A-6d4c8a11, CRYPTO-D3B-3f1e9b74, CRYPTO-D6A-c1f7d283, CRYPTO-D6B-0ea984c5",

@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D6B-0ea984c5b",
-  "stepTitle": "Step title",
-  "stepBody": "Step body",
+  "stepTitle": "Decode a message",
+  "stepBody": "The following message has been encoded using a 2-rail Rail Fence Cipher: TEIHSLCEEATETRDECOEHLGTFIKRDSHSOMRWLSR. \nRecreate the zig-zag pattern to determine the original message before it was encoded.",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": [""],
+  "stepAnswer": ["THELIGHTSFLICKEREDASTHESTORMDREWCLOSER"],
   "variabilization": {}
 }

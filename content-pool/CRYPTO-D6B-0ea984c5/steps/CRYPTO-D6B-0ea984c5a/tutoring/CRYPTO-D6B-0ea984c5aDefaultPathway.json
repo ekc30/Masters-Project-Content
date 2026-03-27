@@ -1,26 +1,18 @@
 [
   {
     "id":"CRYPTO-D6B-0ea984c5a-h1",
-    "title":"Hint 1",
-    "text":"Hint text",
+    "title":"Strategy",
+    "text":"Remember the 3-rail rhythm: top → middle → bottom → middle → top → … . \nThink about how the letters travel along this path as you place them.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D6B-0ea984c5a-h2",
-    "title":"Hint 2",
-    "text":"Hint text",
+    "title":"Procedure",
+    "text":"Remove spaces from the message. Starting at the top rail, write letters going down rails 1 → 2 → 3, then back up rails 2 → 1, repeating until all letters are placed. Read rails 1, 2, and 3 in that order to create the encoded message.",
     "type":"hint",
     "dependencies":["CRYPTO-D6B-0ea984c5a-h1"],
-    "variabilization":{}
-  },
-  {
-    "id":"CRYPTO-D6B-0ea984c5a-h3",
-    "title":"Solution",
-    "text":"**ATTACK**",
-    "type":"solution",
-    "dependencies":["CRYPTO-D6B-0ea984c5a-h2"],
     "variabilization":{}
   }
 ]

@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D6B-0ea984c5a",
-  "stepTitle": "Step title",
-  "stepBody": "Step body",
+  "stepTitle": "Encode a message",
+  "stepBody": "Encode the following message using a 3-rail Rail Fence Cipher: THE GARDEN WAS QUIET IN THE EARLY MORNING. \nWrite the letters in the zig-zag pattern (down the rails, then up again) and read off each rail in order to form the encoded message. Ignore spaces during encoding.",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": [""],
+  "stepAnswer": ["TANQTHRONHGREWSUEITEALMRIGEDAINEYN"],
   "variabilization": {}
 }
