@@ -96,7 +96,7 @@
             {
                 "id": "CRYPTO-D5A-90c3e4e2",
                 "name": "Lesson 5A",
-                "topics": "Mixed Challenge 1A Part 1",
+                "topics": "Revision 1: Mixed Challenge",
                 "allowRecycle": true,
                 "enableCompletionMode": true,
                 "learningObjectives": {
@@ -107,7 +107,7 @@
             {
                 "id": "CRYPTO-D5B-1f0a76bd",
                 "name": "Lesson 5B",
-                "topics": "Mixed Challenge 1A Part 2",
+                "topics": "Revision 2: Mixed Challenge",
                 "allowRecycle": true,
                 "enableCompletionMode": true,
                 "learningObjectives": {
@@ -118,7 +118,7 @@
             {
                 "id": "CRYPTO-D6A-c1f7d283",
                 "name": "Lesson 6A",
-                "topics": "Mixed Challenge 1B Part 1",
+                "topics": "Revision 1: Mixed Challenge",
                 "allowRecycle": true,
                 "enableCompletionMode": true,
                 "learningObjectives": {
@@ -129,7 +129,7 @@
             {
                 "id": "CRYPTO-D6B-0ea984c5",
                 "name": "Lesson 6B",
-                "topics": "Mixed Challenge 1B Part 2",
+                "topics": "Revision 2: Mixed Challenge",
                 "allowRecycle": true,
                 "enableCompletionMode": true,
                 "learningObjectives": {

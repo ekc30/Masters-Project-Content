@@ -4,7 +4,7 @@
   "body": "Practice encoding Vigenère ciphers manually.",
   "variabilization": {},
   "oer": "",
-  "lesson": "1A Caesar Cipher Part 1: Decoding, 1B Caesar Cipher Part 2: Encoding, 4A Rail Fence Cipher Part 1: Pattern Recognition, 4B Rail Fence Cipher Part 2: Pattern Recognition, 5A Mixed Challenge 1A Part 1, 5B Mixed Challenge 1A Part 2",
+  "lesson": "1A Caesar Cipher Part 1: Decoding, 1B Caesar Cipher Part 2: Encoding, 4A Rail Fence Cipher Part 1: Pattern Recognition, 4B Rail Fence Cipher Part 2: Pattern Recognition, 5A Revision 1: Mixed Challenge, 5B Revision 2: Mixed Challenge",
   "courseName": "Classical Cryptography",
   "lesson_set": "1"
 }
