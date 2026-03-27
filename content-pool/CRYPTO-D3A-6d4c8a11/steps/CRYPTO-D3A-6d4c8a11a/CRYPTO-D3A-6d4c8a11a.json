@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D3A-6d4c8a11a",
   "stepTitle": "Encode a word",
-  "stepBody": "Encode the following plaintext using a Rail Fence cipher with a key of 2: HELLO. Enter the ciphertext.",
+  "stepBody": "Encode the following word using a 2-rail Rail Fence Cipher: HELLO. Write the letters in the zig-zag pattern and then read off each rail in order to produce the final encoded message.",
   "problemType": "TextBox",
   "answerType": "string",
   "stepAnswer": ["HLOEL"],

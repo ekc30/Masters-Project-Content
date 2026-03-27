@@ -2,15 +2,15 @@
   {
     "id":"CRYPTO-D3A-6d4c8a11b-h1",
     "title":"Strategy",
-    "text":"Write out the plaintext downwards diagonally on successive \"rails\" (lines), then moving up when the bottom is reached and repeating until the end of the plaintext. Following this, read the ciphertext from the rows. Keep in mind that spaces are also characters.",
+    "text":"With three rails, the letters follow a down-middle-up pattern. Picture the rails like steps: top → middle → bottom → middle → top → …",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D3A-6d4c8a11b-h2",
-    "title":"Example",
-    "text":"For example: ABCDEFG would be encoded as: (image)",
+    "title":"Procedure",
+    "text":"Write the phrase without spaces. Starting on the top rail, place letters going down through rails 1 → 2 → 3, then back up 2 → 1, repeating this cycle. After placing all letters, read off rail 1, then 2, then 3 to get the final encoded phrase.",
     "type":"hint",
     "dependencies":["CRYPTO-D3A-6d4c8a11b-h1"],
     "variabilization":{}

@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D3A-6d4c8a11",
   "title": "Rail Fence Cipher Part 1: Encoding",
-  "body": "Practice encoding Rail Fence ciphers manually.",
+  "body": "The Rail Fence Cipher hides a message by writing its letters in a zig-zag pattern across several “rails” or horizontal rows. Once written out in this pattern, the final encoded message is created by reading off the letters row by row. \nIn this lesson, you’ll practise encoding words and short phrases using a fixed number of rails. Focus on how the letters move down and up across the rails as you write them — the rhythm of this movement is the key to getting the pattern right. \nExample: encoding the text WE ARE DISCOVERED RUN AT ONCE results in the ciphertext WECRUOERDSOEERNTNEAIVDAC. \n##railfencecipher.png##",
   "variabilization": {},
   "oer": "",
   "lesson": "2A Caesar Cipher Part 1: Pattern Recognition, 2B Caesar Cipher Part 2: Pattern Recognition, 3A Rail Fence Cipher Part 1: Encoding, 3B Rail Fence Cipher Part 2: Decoding, 6A Revision 1: Mixed Challenge, 6B Revision 2: Mixed Challenge",

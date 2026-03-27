@@ -2,15 +2,15 @@
   {
     "id":"CRYPTO-D3A-6d4c8a11a-h1",
     "title":"Strategy",
-    "text":"Try to break the text into 2 rows by odd/even letter index, and then concatenate them",
+    "text":"Think about how the zig-zag works with two rails: the letters alternate between the top rail and the bottom rail as you move along the word.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D3A-6d4c8a11a-h2",
-    "title":"Example",
-    "text":"For example: ABCD would be encoded to AC + BD → ACBD.",
+    "title":"Procedure",
+    "text":"Place the 1st letter on the top rail, the 2nd on the bottom rail, the 3rd back on the top rail, and so on. Once all letters are placed, read the top rail first, then the bottom rail to form the encoded word.",
     "type":"hint",
     "dependencies":["CRYPTO-D3A-6d4c8a11a-h1"],
     "variabilization":{}
