@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D3B-3f1e9b74b",
   "stepTitle": "Decode a short phrase",
-  "stepBody": "The following ciphertext is encoded using a Rail Fence cipher with a shift of 3: HLOFO H TE IEEL RMTEOHRSD. Decode the ciphertext and enter the plaintext.",
+  "stepBody": "The following phrase has been encoded using a 3-rail Rail Fence Cipher: IEDILAFWRAUKWUDUCIECOQK. \nWork out how many letters should appear on each rail, then recreate the zig-zag path (down the rails and back up again) to decode the original phrase. Ignore spaces when decoding.",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": ["HELLO FROM THE OTHER SIDE"],
+  "stepAnswer": ["IFIWEREADUCKIWOULDQUACK"],
   "variabilization": {}
 }

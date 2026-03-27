@@ -2,7 +2,7 @@
   {
     "id":"CRYPTO-D3B-3f1e9b74a-h1",
     "title":"Strategy",
-    "text":"Try to break the text into 2 rows by odd/even letter index, and then concatenate them",
+    "text":"For two rails, the encoded word is made by reading the top rail followed by the bottom rail. Try to imagine how many letters the zig-zag would have placed on each rail.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
@@ -10,7 +10,7 @@
   {
     "id":"CRYPTO-D3B-3f1e9b74a-h2",
     "title":"Example",
-    "text":"For example: ACBD would decode to AB + CD → ABCD.",
+    "text":"Split the encoded word into two parts: one for the top rail and one for the bottom rail. Then rebuild the zig-zag by alternating letters between the rails — first from the top, then from the bottom, repeating until the word is complete.",
     "type":"hint",
     "dependencies":["CRYPTO-D3B-3f1e9b74a-h1"],
     "variabilization":{}

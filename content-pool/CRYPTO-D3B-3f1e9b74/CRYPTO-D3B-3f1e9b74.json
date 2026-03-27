@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D3B-3f1e9b74",
   "title": "Rail Fence Cipher Part 2: Decoding",
-  "body": "Practice decoding Rail Fence ciphers manually.",
+  "body": "When a message is encoded with the Rail Fence Cipher, its letters are arranged in a zig-zag across several horizontal rails and then read off row by row. \nTo decode, your goal is to reverse this process: work out how many letters belong on each rail, and then rebuild the zig-zag pattern so you can read the original message in the correct order. Focus on how the rails rise and fall — this movement determines the positions of the letters in the decoded message.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D2A-2bba0d31, CRYPTO-D2B-1a0e7d92, CRYPTO-D3A-6d4c8a11, CRYPTO-D3B-3f1e9b74, CRYPTO-D6A-c1f7d283, CRYPTO-D6B-0ea984c5",

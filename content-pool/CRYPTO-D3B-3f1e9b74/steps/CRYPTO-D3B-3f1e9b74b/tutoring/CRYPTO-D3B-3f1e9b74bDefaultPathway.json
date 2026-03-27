@@ -2,7 +2,7 @@
   {
     "id":"CRYPTO-D3B-3f1e9b74b-h1",
     "title":"Strategy",
-    "text":"Try to break the text into 3 rows by letter index, and then concatenate them. Keep in mind that spaces are also characters",
+    "text":"Remember that a 3-rail pattern moves: top → middle → bottom → middle → top → … . \nTry to think about how many letters land on each rail before the message is read off row by row.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
@@ -10,7 +10,7 @@
   {
     "id":"CRYPTO-D3B-3f1e9b74b-h2",
     "title":"Example",
-    "text":"For example: AEBDFCG would decode to A + ",
+    "text":"Count how many steps the zig-zag takes: 1 → 2 → 3 → 2 → 1 → … . \nUse this cycle to assign letters from the encoded message back into the rails. Start by filling rail 1 with its letters, then rail 2, then rail 3. Once all rails are filled, trace the zig-zag path to recover the original phrase.",
     "type":"hint",
     "dependencies":["CRYPTO-D3B-3f1e9b74b-h1"],
     "variabilization":{}

@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D3B-3f1e9b74a",
   "stepTitle": "Decode a word",
-  "stepBody": "The following ciphertext is encoded using a Rail Fence cipher with a key of 2: HLOEL. Decode the ciphertext and enter the plaintext word. ",
+  "stepBody": "The following word has been encoded using a 2-rail Rail Fence Cipher: EPNNILXOETA. Reconstruct the zig-zag layout to determine the original word before it was encoded.",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": ["HELLO"],
+  "stepAnswer": ["EXPONENTIAL"],
   "variabilization": {}
 }
