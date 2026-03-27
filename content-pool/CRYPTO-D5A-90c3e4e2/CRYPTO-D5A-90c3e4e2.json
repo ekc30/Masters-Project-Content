@@ -1,6 +1,6 @@
 {
   "id": "CRYPTO-D5A-90c3e4e2",
-  "title": "Revision 1: Caesar Cipher mechanics & Rail Fence Cipher Patterns",
+  "title": "Revision 1: Caesar Cipher mechanics",
   "body": "You've already learned how the Caesar Cipher shifts letters forwards or backwards in the alphabet to encode and decode messages. In this revision lesson, you'll apply those ideas more confidently: reversing a shift to decode, and applying a shift to encode. \nFocus on keeping track of the alphabet's circular movement — when shifts go past A or Z, the letters wrap around. Your goal is simply to apply the correct direction and amount of shift to each letter. Try to keep track of letter mappings to make encoding/decoding longer messages easier.",
   "variabilization": {},
   "oer": "",

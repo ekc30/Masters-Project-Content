@@ -1,6 +1,6 @@
 {
   "id": "CRYPTO-D5A-90c3e4e2a",
-  "stepTitle": "Decode a short phrase",
+  "stepTitle": "Decode a message",
   "stepBody": "Decode the following message, which was encoded using a Caesar shift of 7 to the right: JHLZHY JPWOLYZ HYL XBPAL LHZF AV JYHJR. \nReverse the shift to recover the original message.",
   "problemType": "TextBox",
   "answerType": "string",

@@ -1,6 +1,6 @@
 {
   "id": "CRYPTO-D5A-90c3e4e2b",
-  "stepTitle": "Encode a short phrase",
+  "stepTitle": "Encode a message",
   "stepBody": "Encode the following message using a Caesar shift of 6 to the right: THE CAESAR CIPHER IS NAMED FOR JULIUS CAESAR WHO USED IT WITH A SHIFT OF THREE. \nShift each letter forward to create the encoded version.",
   "problemType": "TextBox",
   "answerType": "string",
