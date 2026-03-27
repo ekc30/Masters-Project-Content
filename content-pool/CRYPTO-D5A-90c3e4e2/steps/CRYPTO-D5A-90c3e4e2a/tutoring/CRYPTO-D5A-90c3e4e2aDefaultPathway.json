@@ -1,26 +1,18 @@
 [
   {
     "id":"CRYPTO-D5A-90c3e4e2a-h1",
-    "title":"Clue",
-    "text":"Repeating key patterns often → Vigenère.",
+    "title":"Strategy",
+    "text": "A right-shift of 7 during encoding means the original message is seven letters earlier in the alphabet. Think backwards for each letter.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D5A-90c3e4e2a-h2",
-    "title":"Eliminate others",
-    "text":"It’s not a single fixed shift across all letters.",
+    "title": "Procedure",
+    "text": "Take each encoded letter and count seven positions to the left in the alphabet (wrap from A back to Z when needed). Replace each letter with the one you land on to reconstruct the decoded message.",
     "type":"hint",
     "dependencies":["CRYPTO-D5A-90c3e4e2a-h1"],
-    "variabilization":{}
-  },
-  {
-    "id":"CRYPTO-D5A-90c3e4e2a-h3",
-    "title":"Solution",
-    "text":"**VIGENERE**",
-    "type":"solution",
-    "dependencies":["CRYPTO-D5A-90c3e4e2a-h2"],
     "variabilization":{}
   }
 ]

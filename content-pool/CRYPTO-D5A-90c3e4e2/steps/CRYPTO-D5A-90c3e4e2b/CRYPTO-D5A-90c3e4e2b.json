@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D5A-90c3e4e2b",
-  "stepTitle": "Identify this one",
-  "stepBody": "Ciphertext: **KHOOR ZRUOG**\nEnter family name (CAESAR / SUBSTITUTION / VIGENERE).",
+  "stepTitle": "Encode a short phrase",
+  "stepBody": "Encode the following message using a Caesar shift of 6 to the right: THE CAESAR CIPHER IS NAMED FOR JULIUS CAESAR WHO USED IT WITH A SHIFT OF THREE. \nShift each letter forward to create the encoded version.",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": ["CAESAR"],
+  "stepAnswer": ["ZNK IGKYGX IOVNKX OY TGSKJ LUX PAROAY IGKYGX CNU AYKJ OZ COZN G YNOLZ UL ZNXKK"],
   "variabilization": {}
 }

@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D5A-90c3e4e2",
-  "title": "Vigenère Cipher Part 1: Decoding",
-  "body": "Practice decoding Vigenère ciphers manually.",
+  "title": "Revision 1: Caesar Cipher mechanics & Rail Fence Cipher Patterns",
+  "body": "You've already learned how the Caesar Cipher shifts letters forwards or backwards in the alphabet to encode and decode messages. In this revision lesson, you'll apply those ideas more confidently: reversing a shift to decode, and applying a shift to encode. \nFocus on keeping track of the alphabet's circular movement — when shifts go past A or Z, the letters wrap around. Your goal is simply to apply the correct direction and amount of shift to each letter. Try to keep track of letter mappings to make encoding/decoding longer messages easier.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D1A-9f5a2f70, CRYPTO-D1B-55c1a1de, CRYPTO-D4A-8b7f12c9, CRYPTO-D4B-74ad0c21, CRYPTO-D5A-90c3e4e2, CRYPTO-D5B-1f0a76bd",

@@ -1,26 +1,18 @@
 [
   {
     "id":"CRYPTO-D5A-90c3e4e2b-h1",
-    "title":"Clue",
-    "text":"All letters appear uniformly shifted.",
+    "title": "Strategy",
+    "text": "Encoding with a shift of 6 means moving every letter six positions forward in the alphabet. Keep the direction of movement consistent across the whole message.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D5A-90c3e4e2b-h2",
-    "title":"Check a word",
-    "text":"Try backward shift 3 → familiar greeting appears.",
+    "title": "Procedure",
+    "text": "For each letter, move six letters to the right (Z wraps back to A). Replace each original letter with the shifted one.",
     "type":"hint",
     "dependencies":["CRYPTO-D5A-90c3e4e2b-h1"],
-    "variabilization":{}
-  },
-  {
-    "id":"CRYPTO-D5A-90c3e4e2b-h3",
-    "title":"Solution",
-    "text":"**CAESAR**",
-    "type":"solution",
-    "dependencies":["CRYPTO-D5A-90c3e4e2b-h2"],
     "variabilization":{}
   }
 ]
