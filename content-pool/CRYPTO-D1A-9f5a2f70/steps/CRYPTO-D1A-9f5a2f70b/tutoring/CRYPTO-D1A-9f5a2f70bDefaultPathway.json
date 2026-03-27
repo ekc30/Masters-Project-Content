@@ -2,15 +2,15 @@
   {
     "id": "CRYPTO-D1A-9f5a2f70b-h1",
     "title": "Strategy",
-    "text": "Try shifting each letter backward through the alphabet. For example, D → C is a shift of 1, D → B is a shift of 2 and so on.",
+    "text": "A shift of 5 to the right means every encoded letter belongs five positions earlier in the alphabet in the original phrase. Think about each letter's backward movement.",
     "type": "hint",
     "dependencies": [],
     "variabilization": {}
   },
   {
     "id": "CRYPTO-D1A-9f5a2f70b-h2",
-    "title": "Further Shifting",
-    "text": "Try shifting each letter backward through the alphabet by 3. For example: K → H, H → E and so on.",
+    "title": "Procedure",
+    "text": "Go letter by letter. For each character, move five spaces to the left on the alphabet (wrapping from A to Z as needed), building the decoded phrase one letter at a time.",
     "type": "hint",
     "dependencies": ["CRYPTO-D1A-9f5a2f70b-h1"],
     "variabilization": {}

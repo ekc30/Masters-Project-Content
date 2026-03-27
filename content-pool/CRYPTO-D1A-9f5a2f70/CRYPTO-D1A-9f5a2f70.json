@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D1A-9f5a2f70",
   "title": "Caesar Cipher Part 1: Decoding",
-  "body": "Practice decoding Caesar ciphers manually. Try shifting letters through the alphabet following the instructions.",
+  "body": "The Caesar cipher is a substitution cipher where every letter in the message is shifted along the alphabet by a fixed number of positions. To decode a message, you reverse this shift to bring each letter back to its original place. \nIn this lesson, you'll practise decoding messages that have been shifted by a known amount. Focus on how the alphabet “wraps around” when shifts pass the letter A — this wrap-around behaviour is key to restoring the original message.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D1A-9f5a2f70, CRYPTO-D1B-55c1a1de, CRYPTO-D4A-8b7f12c9, CRYPTO-D4B-74ad0c21, CRYPTO-D5A-90c3e4e2, CRYPTO-D5B-1f0a76bd",
