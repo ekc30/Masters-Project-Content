@@ -4,7 +4,7 @@
   "body": "Practice decoding Rail Fence ciphers manually.",
   "variabilization": {},
   "oer": "",
-  "lesson": "2A Caesar Cipher Part 1: Pattern Recognition, 2B Caesar Cipher Part 2: Pattern Recognition, 3A Rail Fence Cipher Part 1: Encoding, 3B Rail Fence Cipher Part 2: Decoding, 6A Revision 1: Mixed Challenge, 6B Revision 2: Mixed Challenge",
+  "lesson": "CRYPTO-D2A-2bba0d31, CRYPTO-D2B-1a0e7d92, CRYPTO-D3A-6d4c8a11, CRYPTO-D3B-3f1e9b74, CRYPTO-D6A-c1f7d283, CRYPTO-D6B-0ea984c5",
   "courseName": "Classical Cryptography",
   "lesson_set": "2"
 }
