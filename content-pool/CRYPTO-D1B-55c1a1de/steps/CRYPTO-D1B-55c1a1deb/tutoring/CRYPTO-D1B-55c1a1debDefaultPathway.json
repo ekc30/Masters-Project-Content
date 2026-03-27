@@ -1,16 +1,16 @@
 [
   {
     "id": "CRYPTO-D1B-55c1a1deb-h1",
-    "title": "Mapping letters",
-    "text": "Shift each letter forward by 4, for example A → E, L → P, etc.).",
+    "title": "Strategy",
+    "text": "A shift of 4 to the right means you advance each letter four places forward in the alphabet. Focus on the consistent forward movement for every letter.",
     "type": "hint",
     "dependencies": [],
     "variabilization": {}
   },
   {
     "id": "CRYPTO-D1B-55c1a1deb-h2",
-    "title": "Check each position",
-    "text": "Verify all letters were shifted consistently.",
+    "title": "Procedure",
+    "text": "Write the phrase without spaces. For each letter, count four letters forward in the alphabet (wrap around after Z). Replace each letter with its shifted version.",
     "type": "hint",
     "dependencies": ["CRYPTO-D1B-55c1a1deb-h1"],
     "variabilization": {}

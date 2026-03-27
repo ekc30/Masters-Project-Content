@@ -1,16 +1,16 @@
 [
   {
     "id": "CRYPTO-D1B-55c1a1dea-h1",
-    "title": "Mapping letters",
-    "text": "Shift each letter forward by 4, for example A → E, L → P, etc.).",
+    "title": "Strategy",
+    "text": "A right-shift of 2 means each letter is replaced by the one two positions later in the alphabet. Think about how each letter moves forward.",
     "type": "hint",
     "dependencies": [],
     "variabilization": {}
   },
   {
     "id": "CRYPTO-D1B-55c1a1dea-h2",
-    "title": "Check each position",
-    "text": "Verify all letters were shifted consistently.",
+    "title": "Procedure",
+    "text": "Take the original word and shift each letter two steps to the right in the alphabet (wrap from Z back to A if needed). Replace each original letter with the letter you land on — this forms the encoded word.",
     "type": "hint",
     "dependencies": ["CRYPTO-D1B-55c1a1dea-h1"],
     "variabilization": {}

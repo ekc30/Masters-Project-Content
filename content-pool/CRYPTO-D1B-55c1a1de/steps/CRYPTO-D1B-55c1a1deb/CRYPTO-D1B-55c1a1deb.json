@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D1B-55c1a1deb",
-  "stepTitle": "Encode the phrase CAESAR CIPHER ALPHABET",
-  "stepBody": "Encode the phrase CAESAR CIPHER ALPHABET using a Caesar cipher with a shift of 4. Enter the ciphertext.",
+  "stepTitle": "Encode a short phrase",
+  "stepBody": "Encode the following short phrase using a Caesar shift of 4 to the right: CAESAR CIPHER ALPHABET. \nShift each letter forward by four positions in the alphabet.",
   "problemType": "TextBox",
   "answerType": "string",
   "stepAnswer": ["GEIWEV GMTLIV EPTLEFIX"],

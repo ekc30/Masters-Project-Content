@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D1B-55c1a1dea",
-  "stepTitle": "Encode the word ALPHABET",
-  "stepBody": "Encode the word ALPHABET using a Caesar cipher with a shift of 4. Enter the ciphertext.",
+  "stepTitle": "Encode a word",
+  "stepBody": "Encode the word ALPHABET using a Caesar shift of 2 to the right. \nApply the shift to each letter to create the encoded word.",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": ["EPTLEFIX"],
+  "stepAnswer": ["CNRJCDGV"],
   "variabilization": {}
 }

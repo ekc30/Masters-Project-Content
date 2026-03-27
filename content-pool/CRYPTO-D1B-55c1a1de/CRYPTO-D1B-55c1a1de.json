@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D1B-55c1a1de",
   "title": "Caesar Cipher Part 2: Encoding",
-  "body": "Practice encoding Caesar ciphers manually. Try shifting letters through the alphabet the opposite way until you get a meaningful word.",
+  "body": "The Caesar cipher encodes a message by shifting each letter forward in the alphabet by a fixed number of places. Once the shift is chosen, the same movement is applied to every letter in the message. \nIn this lesson, you'll practise applying the shift to construct encoded messages. Pay attention to how the alphabet wraps around when you move past the letter Z — this wrap-around is essential for keeping your encoded message consistent.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D1A-9f5a2f70, CRYPTO-D1B-55c1a1de, CRYPTO-D4A-8b7f12c9, CRYPTO-D4B-74ad0c21, CRYPTO-D5A-90c3e4e2, CRYPTO-D5B-1f0a76bd",
