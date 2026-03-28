@@ -1,29 +1,19 @@
 [
   {
     "id": "CRYPTO-D5B-1f0a76bda-h1",
-    "title": "Reuse technique",
-    "text": "Align LEMON and decode per letter.",
+    "title": "Try the simplest approach",
+    "text": "A very simple zig-zag alternates letters between two rows. Check whether placing every other letter on the top rail creates fragments that feel continuous.",
     "type": "hint",
     "dependencies": [],
     "variabilization": {}
   },
   {
     "id": "CRYPTO-D5B-1f0a76bda-h2",
-    "title": "Check chunk",
-    "text": "Decode LXF to confirm ATT.",
+    "title": "Check the simplest zig-zag",
+    "text": "Try writing the ciphertext with letters in alternating positions: one on the top rail, one on the bottom rail, repeating. If reading the top row first and then the bottom row forms recognisable English, the message was likely arranged using a simple, two-row zig-zag.",
     "type": "hint",
     "dependencies": [
       "CRYPTO-D5B-1f0a76bda-h1"
-    ],
-    "variabilization": {}
-  },
-  {
-    "id": "CRYPTO-D5B-1f0a76bda-h3",
-    "title": "Solution",
-    "text": "**ATTACK**",
-    "type": "solution",
-    "dependencies": [
-      "CRYPTO-D5B-1f0a76bda-h2"
     ],
     "variabilization": {}
   }

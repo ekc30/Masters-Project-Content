@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D5B-1f0a76bdb",
-  "stepTitle": "Transfer: unseen mapping",
-  "stepBody": "Ciphertext uses a linear mapping (affine family). Decode: **ZOLSSZ**\n(Hinting disabled in tests; here, you may think in terms of a consistent per‑letter transformation.)\nEnter plaintext.",
+  "stepTitle": "Identify the number of rails",
+  "stepBody": "The message below was encoded using a Rail Fence Cipher, but the number of rails is not given. Look at how the ciphertext is structured and consider whether a longer zig-zag path might be required to organise the letters. Think about whether arranging the text using only two rows would produce meaningful fragments, or whether a layout involving more than two rows makes more sense. TESKLTONEERRTRTPRARVLRWLEAOGHRAADHQITICRIDHIFOSESAAEDAEADNEDTUAAEEOTFH",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": ["HELLO"],
+  "stepAnswer": ["3"],
   "variabilization": {}
 }

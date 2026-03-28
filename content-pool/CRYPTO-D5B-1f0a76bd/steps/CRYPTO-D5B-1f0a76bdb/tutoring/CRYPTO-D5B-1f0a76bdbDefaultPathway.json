@@ -1,26 +1,18 @@
 [
   {
     "id":"CRYPTO-D5B-1f0a76bdb-h1",
-    "title":"Pattern first",
-    "text":"Try to map one or two letters to their likely plaintext and test consistency.",
+    "title":"Try the simplest approach",
+    "text":"If alternating letters between two rows does not produce clear or continuous fragments, the original message may have been arranged over a longer repeating pattern that uses additional rails.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D5B-1f0a76bdb-h2",
-    "title":"Check consistency",
-    "text":"Does the same transform work across all letters?",
+    "title":"Try more rails",
+    "text":"Try testing a longer cycle by placing letters across three rows in a downward and upward pattern. If this produces smoother sections than the two-row attempt, the ciphertext was likely arranged using more than two rows, following a wider zig-zag.",
     "type":"hint",
     "dependencies":["CRYPTO-D5B-1f0a76bdb-h1"],
-    "variabilization":{}
-  },
-  {
-    "id":"CRYPTO-D5B-1f0a76bdb-h3",
-    "title":"Solution",
-    "text":"**HELLO**",
-    "type":"solution",
-    "dependencies":["CRYPTO-D5B-1f0a76bdb-h2"],
     "variabilization":{}
   }
 ]

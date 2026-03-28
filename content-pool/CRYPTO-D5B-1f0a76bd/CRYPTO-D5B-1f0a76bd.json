@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D5B-1f0a76bd",
-  "title": "Vigenère Cipher Part 2: Encoding",
-  "body": "Practice encoding Vigenère ciphers manually.",
+  "title": "Revision 2: Rail Fence Cipher patterns",
+  "body": "Rail Fence Ciphers hide a message by placing letters along a repeating zig-zag path across several rails. When you examine ciphertext closely, certain patterns — such as how letters might alternate, or how long a zig-zag cycle would need to be — can help you infer how many rails were used, even without fully decoding the message. In this revision lesson, you'll use these structural clues to reason about how the letters might have been arranged across different numbers of rails.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D1A-9f5a2f70, CRYPTO-D1B-55c1a1de, CRYPTO-D4A-8b7f12c9, CRYPTO-D4B-74ad0c21, CRYPTO-D5A-90c3e4e2, CRYPTO-D5B-1f0a76bd",

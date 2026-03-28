@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D5B-1f0a76bda",
-  "stepTitle": "Finish the decode",
-  "stepBody": "Ciphertext: **LXFOPV**  | Key: **LEMON**\nEnter plaintext (first 6 letters).",
+  "stepTitle": "Identify the number of rails",
+  "stepBody": "The message below was encoded using a Rail Fence Cipher, but the number of rails is not stated. Study the structure of the ciphertext and consider whether a simple alternating zig-zag pattern could organise the letters smoothly. TEXEIETOTNESOTLADHRSLSEANDOSSETVRIEHEPRMNCNIUDMOHYNTEEUTRMIECNITNOETM",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": ["ATTACK"],
+  "stepAnswer": ["2"],
   "variabilization": {}
 }
