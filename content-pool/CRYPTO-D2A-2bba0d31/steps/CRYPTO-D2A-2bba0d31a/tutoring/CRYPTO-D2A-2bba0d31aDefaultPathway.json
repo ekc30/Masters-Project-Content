@@ -1,16 +1,16 @@
 [
   {
     "id":"CRYPTO-D2A-2bba0d31a-h1",
-    "title":"Common letters",
-    "text":"What are the most common letters in English?",
+    "title":"Strategy",
+    "text":"In English, the most common single-letter word is \"A\", followed by \"I\". Think about which of these is more frequent and more likely to appear alone.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D2A-2bba0d31a-h1",
-    "title":"Word positioning",
-    "text":"Can you spot any instances of U in a specific position, for example making up a single-letter word?",
+    "title":"Procedure",
+    "text":"If U is a single-letter word, it most likely maps to A. \nTo check this, imagine substituting U → A elsewhere in the message and see if the surrounding patterns make sense.",
     "type":"hint",
     "dependencies":["CRYPTO-D2A-2bba0d31a-h1"],
     "variabilization":{}

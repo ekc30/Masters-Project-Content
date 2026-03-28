@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D2A-2bba0d31",
   "title": "Caesar Cipher Part 1: Pattern Recognition",
-  "body": "Practice spotting patterns in Caesar-encrypted ciphertext.",
+  "body": "Before decoding a Caesar Cipher message mechanically, it is often possible to spot patterns that reveal likely letter mappings. Common English words, frequent letters, or single-letter words can offer clues about how letters were shifted. \nIn this lesson, you'll practise using these surface patterns to infer a specific letter-to-letter mapping, without fully decoding the message.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D2A-2bba0d31, CRYPTO-D2B-1a0e7d92, CRYPTO-D3A-6d4c8a11, CRYPTO-D3B-3f1e9b74, CRYPTO-D6A-c1f7d283, CRYPTO-D6B-0ea984c5",
