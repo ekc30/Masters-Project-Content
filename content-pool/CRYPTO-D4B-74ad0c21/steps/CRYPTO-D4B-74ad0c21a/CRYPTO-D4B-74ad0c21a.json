@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D4B-74ad0c21a",
-  "stepTitle": "Column shift",
-  "stepBody": "Key length is 3. The first column’s most frequent letter is **X**.\nAssuming English E is most common, what is the likely shift (0–25) for column 1 (Cipher→Plain)?",
+  "stepTitle": "Determine number of rails",
+  "stepBody": "The message below was encoded using a Rail Fence Cipher, but the number of rails is not given. Examine the structure of the ciphertext and consider how many rails would be needed to arrange the text for it to make sense. TKSEQTTALTFASELHSYAPLADUEADHERYIHDITDCOSHFEDEWANINELGRERTIS",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": ["19"],
+  "stepAnswer": ["3"],
   "variabilization": {}
 }

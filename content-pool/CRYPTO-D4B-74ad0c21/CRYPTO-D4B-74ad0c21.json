@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D4B-74ad0c21",
   "title": "Rail Fence Cipher Part 2: Pattern Recognition",
-  "body": "Practice spotting patterns in Rail Fence-encrypted ciphertext.",
+  "body": "When a Rail Fence Cipher uses more than two rails, the zig-zag pattern becomes wider and takes longer to repeat. These longer patterns can leave clues in the ciphertext about how the letters were arranged, even if you don't decode the full message. \nIn this lesson, you'll look for structural clues that suggest the cipher used more than two rails and consider how the letters might fit into a longer zig-zag path.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D1A-9f5a2f70, CRYPTO-D1B-55c1a1de, CRYPTO-D4A-8b7f12c9, CRYPTO-D4B-74ad0c21, CRYPTO-D5A-90c3e4e2, CRYPTO-D5B-1f0a76bd",
