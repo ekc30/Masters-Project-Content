@@ -2,7 +2,7 @@
   {
     "id":"CRYPTO-D2B-1a0e7d92b-h1",
     "title":"Common 3-letter words",
-    "text":"What common 3-letter words are there in English?",
+    "text":"\"The\" is one of the most common three-letter English words. Compare the pattern of VJG to the shape of THE — does shifting each letter by the same amount turn one into the other?",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
@@ -10,7 +10,7 @@
   {
     "id": "CRYPTO-D2B-1a0e7d92b-h2",
     "title": "Word type",
-    "text": "Could it map to an article?",
+    "text": "Try shifting V → T, J → H, and G → E. \nAll three letters align with the same shift difference, so VJG most likely corresponds to THE.",
     "type": "hint",
     "dependencies": ["CRYPTO-D2B-1a0e7d92b-h1"],
     "variabilization": {}

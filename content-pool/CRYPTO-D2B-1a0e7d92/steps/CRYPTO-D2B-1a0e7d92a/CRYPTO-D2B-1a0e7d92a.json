@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D2B-1a0e7d92a",
   "stepTitle": "Likely word mapping",
-  "stepBody": "What word does VJG likely map to in the following Caesar-encrypted text? VJG OCP CPF VJG YQOCP TGVTKGXGF VJG NGVVGT HTQO VJG RQUV QHHKEG",
+  "stepBody": "In the encoded text below, the sequence VJG appears in a position that fits a common three-letter English word. \nIdentify which plaintext word VJG is most likely representing. VJG OCP CPF VJG YQOCP TGVTKGXGF VJG NGVVGT HTQO VJG RQUV QHHKEG",
   "problemType": "TextBox",
   "answerType": "string",
   "stepAnswer": ["THE"],

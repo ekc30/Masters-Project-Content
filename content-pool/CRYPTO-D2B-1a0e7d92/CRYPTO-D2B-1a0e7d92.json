@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D2B-1a0e7d92",
   "title": "Caesar Cipher Part 2: Pattern Recognition",
-  "body": "Practice spotting patterns in Caesar-encrypted ciphertext.",
+  "body": "Short, frequent English words — like \"the\", \"and\", or \"for\" — have distinctive shapes. When these patterns appear in an encoded message, you can often match them directly to likely plaintext words. \nIn this lesson, you'll infer which plaintext word corresponds to a three-letter sequence in the encoded text by comparing common word patterns.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D2A-2bba0d31, CRYPTO-D2B-1a0e7d92, CRYPTO-D3A-6d4c8a11, CRYPTO-D3B-3f1e9b74, CRYPTO-D6A-c1f7d283, CRYPTO-D6B-0ea984c5",
