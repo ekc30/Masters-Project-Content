@@ -1,26 +1,18 @@
 [
   {
     "id":"CRYPTO-D6A-c1f7d283b-h1",
-    "title":"Pattern first",
-    "text":"Try to map one or two letters to their likely plaintext and test consistency.",
+    "title":"Think about word position",
+    "text":"Short joining words often appear after commas in English sentences. Check whether REU could correspond to a connecting word.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D6A-c1f7d283b-h2",
-    "title":"Check consistency",
-    "text":"Does the same transform work across all letters?",
+    "title":"Compare to common connecting word",
+    "text":"Compare the letters in REU and AND, a common connecting word. Do the letters shift consistently?",
     "type":"hint",
     "dependencies":["CRYPTO-D6A-c1f7d283b-h1"],
-    "variabilization":{}
-  },
-  {
-    "id":"CRYPTO-D6A-c1f7d283b-h3",
-    "title":"Solution",
-    "text":"**HELLO**",
-    "type":"solution",
-    "dependencies":["CRYPTO-D6A-c1f7d283b-h2"],
     "variabilization":{}
   }
 ]

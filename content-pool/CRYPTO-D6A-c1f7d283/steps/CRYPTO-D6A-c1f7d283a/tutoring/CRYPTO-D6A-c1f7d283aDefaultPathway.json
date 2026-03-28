@@ -1,26 +1,18 @@
 [
   {
     "id":"CRYPTO-D6A-c1f7d283a-h1",
-    "title":"Reuse technique",
-    "text":"Align LEMON and decode per letter.",
+    "title":"Use the double letter",
+    "text":"A double-letter at the end of a short word is common in English. Think about three-letter words that end with the same letter twice.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D6A-c1f7d283a-h2",
-    "title":"Check chunk",
-    "text":"Decode LXF to confirm ATT.",
+    "title":"Check shift",
+    "text":"Compare the pattern MXX to ALL: both have one unique first letter followed by a repeated pair. Do all letters have the same shift?",
     "type":"hint",
     "dependencies":["CRYPTO-D6A-c1f7d283a-h1"],
-    "variabilization":{}
-  },
-  {
-    "id":"CRYPTO-D6A-c1f7d283a-h3",
-    "title":"Solution",
-    "text":"**ATTACK**",
-    "type":"solution",
-    "dependencies":["CRYPTO-D6A-c1f7d283a-h2"],
     "variabilization":{}
   }
 ]

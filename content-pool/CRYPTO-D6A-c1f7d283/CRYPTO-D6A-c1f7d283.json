@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D6A-c1f7d283",
   "title": "Revision 1: Caesar Cipher patterns",
-  "body": "Practice spotting patterns in Vigenère-encrypted ciphertext.",
+  "body": "You've learned that Caesar Cipher messages often reveal their structure through familiar word shapes and positions, repeated letters, and common single- or three-letter patterns. These clues help you guess likely letter mappings before applying any decoding steps. \nIn this revision lesson, you'll practise recognising these patterns to identify words and letter correspondences quickly and confidently.",
   "variabilization": {},
   "oer": "",
   "lesson": "CRYPTO-D2A-2bba0d31, CRYPTO-D2B-1a0e7d92, CRYPTO-D3A-6d4c8a11, CRYPTO-D3B-3f1e9b74, CRYPTO-D6A-c1f7d283, CRYPTO-D6B-0ea984c5",

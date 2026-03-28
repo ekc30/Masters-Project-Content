@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D6A-c1f7d283b",
-  "stepTitle": "Transfer: unseen mapping",
-  "stepBody": "Ciphertext uses a linear mapping (affine family). Decode: **ZOLSSZ**\n(Hinting disabled in tests; here, you may think in terms of a consistent per‑letter transformation.)\nEnter plaintext.",
+  "stepTitle": "Identify likely mapping of REU",
+  "stepBody": "The encoded message contains the sequence REU, placed directly after a comma in a sentence. Using its position and the shape of the ciphertext, identify which common three-letter English word REU most likely represents.",
   "problemType": "TextBox",
   "answerType": "string",
   "stepAnswer": ["HELLO"],
