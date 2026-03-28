@@ -1,16 +1,16 @@
 [
   {
     "id":"CRYPTO-D4A-8b7f12c9a-h1",
-    "title":"",
-    "text":"",
+    "title":"Try to reconstruct the rails",
+    "text":"A two-rail cipher creates a very simple zig-zag: the letters alternate between the top and bottom rails. Try checking whether alternating letters from the ciphertext produces meaningful text.",
     "type":"hint",
     "dependencies":[],
     "variabilization":{}
   },
   {
     "id":"CRYPTO-D4A-8b7f12c9a-h2",
-    "title":"GCD",
-    "text":"Take the GCD of the distances; common divisors indicate key length.",
+    "title":"Try a specific number of rails",
+    "text":"Write the ciphertext in two rows by placing every other letter on the top rail and the remaining letters on the bottom rail. If the resulting reading order forms smooth, recognisable English, then the key length is most likely 2 rails.",
     "type":"hint",
     "dependencies":["CRYPTO-D4A-8b7f12c9a-h1"],
     "variabilization":{}

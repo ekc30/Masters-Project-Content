@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D4A-8b7f12c9a",
-  "stepTitle": "Estimate key length",
-  "stepBody": "What is most likely the key of the following Rail Fence-encrypted ciphertext? TERI EC IHRI  LSIA YEO RNPSTOH ALFNECPE SACASCLTP FTASOIIN",
+  "stepTitle": "Determine number of rails",
+  "stepBody": "The message below was encoded using a Rail Fence Cipher with an unknown number of rails. Examine the structure of the ciphertext and determine how many rails were most likely used. Consider how the zig-zag arrangement would look and whether splitting the text into two or more rows could allow the message to read smoothly. TEALECCPEIALSIATPOTASOIINIHRHRIFNEIHRSCASCLYEFRNPSTOCPE",
   "problemType": "TextBox",
   "answerType": "string",
   "stepAnswer": ["2"],
