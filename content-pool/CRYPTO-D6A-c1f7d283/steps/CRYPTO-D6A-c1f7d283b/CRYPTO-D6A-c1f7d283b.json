@@ -1,9 +1,9 @@
 {
   "id": "CRYPTO-D6A-c1f7d283b",
   "stepTitle": "Identify likely mapping of REU",
-  "stepBody": "The encoded message contains the sequence REU, placed directly after a comma in a sentence. Using its position and the shape of the ciphertext, identify which common three-letter English word REU most likely represents.",
+  "stepBody": "The encoded message contains the sequence REU, placed directly after a comma in a sentence. Using its position and the shape of the ciphertext, identify which common three-letter English word REU most likely represents. REU KYV NZEU IFJV JLUUVECP, REU KYV CVRMVJ JTRKKVIVU RTIFJJ KYV GRKY. JYV JKFGGVU REU CZJKVEVU, REU KYV JFLEU XIVN CFLUVI ZE KYV UZJKRETV. KYV CREKVIE WCZTBVIVU REU JNRPVU, REU KYV JYRUFNJ JYZWKVU RCFEX KYV NRCCJ.",
   "problemType": "TextBox",
   "answerType": "string",
-  "stepAnswer": ["HELLO"],
+  "stepAnswer": ["AND"],
   "variabilization": {}
 }
