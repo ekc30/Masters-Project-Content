@@ -1,7 +1,7 @@
 {
   "id": "CRYPTO-D6A-c1f7d283a",
   "stepTitle": "Identify likely mapping of MXX",
-  "stepBody": "The encoded message begins with the three-letter sequence MXX. \nUsing the double-letter pattern and the commonness of short English words, determine which plaintext word MXX most likely represents. MXX FMEWE YGEF NQ OTQOWQP OMDQRGXXK MZP MXX EFQBE ETAGXP NQ RAXXAIQP UZ ADPQD. AZOQ MXX BDQBMDMFUAZE MDQ AOYBXQFQ, FTQ BDAOQEE NQOAYQE YGOT QMEUQD. MXX FTMF DQYMUZE FTQZ UE FA DQHUQI FTQ DQEGXFE MZP YMWQ MPVGEFYQZFE.",
+  "stepBody": "The encoded message below begins with the three-letter sequence MXX. \nUsing the double-letter pattern and the commonness of short English words, determine which plaintext word MXX most likely represents. MXX FMEWE YGEF NQ OTQOWQP OMDQRGXXK MZP MXX EFQBE ETAGXP NQ RAXXAIQP UZ ADPQD. AZOQ MXX BDQBMDMFUAZE MDQ AOYBXQFQ, FTQ BDAOQEE NQOAYQE YGOT QMEUQD. MXX FTMF DQYMUZE FTQZ UE FA DQHUQI FTQ DQEGXFE MZP YMWQ MPVGEFYQZFE.",
   "problemType": "TextBox",
   "answerType": "string",
   "stepAnswer": ["ALL"],
